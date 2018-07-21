@@ -1,0 +1,3 @@
+# JenkinsのMultibranch Pipelineのサンプル
+
+JenkinsのMultibranch Pipelineでgitのコードをビルドするためのサンプルです。
